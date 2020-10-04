@@ -78,3 +78,5 @@ public class MainActivity extends AppCompatActivity {
 
 
 //GitHubコミットテスト
+
+//GitHubテスト.コミットとpushを同時に行う。
